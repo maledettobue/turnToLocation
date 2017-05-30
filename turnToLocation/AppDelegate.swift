@@ -2,9 +2,6 @@
 //  AppDelegate.swift
 //  turnToLocation
 //
-//  Created by Mauro on 29/05/2017.
-//  Copyright © 2017 n/a. All rights reserved.
-//
 
 import UIKit
 
